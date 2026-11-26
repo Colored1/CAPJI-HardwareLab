@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+*.keystore
+*.jks
+# Firebase config is optional and private - add it locally or via CI secret
+app/google-services.json
