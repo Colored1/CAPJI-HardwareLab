@@ -55,7 +55,7 @@ fun SectionTitle(text: String, modifier: Modifier = Modifier, color: Color = Cx.
 }
 
 @Composable
-fun StatRow(label: String, value: String, modifier: Modifier = Modifier, valueColor: Color = Cx.TextHi) {
+fun StatRow(label: String, value: String, valueColor: Color = Cx.TextHi, modifier: Modifier = Modifier) {
     Row(
         modifier = modifier
             .fillMaxWidth()
