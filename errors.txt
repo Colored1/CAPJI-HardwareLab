@@ -1,0 +1,28 @@
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Gauges.kt:86:23 Unresolved reference 'animateFloat'.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Gauges.kt:89:25 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Gauges.kt:89:44 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:31:19 Unresolved reference 'animateFloat'.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:34:25 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:34:44 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:37:20 Unresolved reference 'animateFloat'.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:40:25 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:40:44 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:43:20 Unresolved reference 'animateFloat'.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:46:25 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/components/Logo.kt:46:44 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Specs.kt:131:97 Argument type mismatch: actual type is 'androidx.compose.ui.graphics.Color', but 'androidx.compose.ui.Modifier' was expected.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Specs.kt:132:90 Argument type mismatch: actual type is 'androidx.compose.ui.graphics.Color', but 'androidx.compose.ui.Modifier' was expected.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Specs.kt:175:17 Argument type mismatch: actual type is 'androidx.compose.ui.graphics.Color', but 'androidx.compose.ui.Modifier' was expected.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:40:19 Unresolved reference 'animateFloat'.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:43:25 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:43:44 Cannot infer type for this parameter. Please specify it explicitly.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:60:32 Overload resolution ambiguity between candidates:
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:60:45 None of the following candidates is applicable:
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:62:60 None of the following candidates is applicable:
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:63:48 None of the following candidates is applicable:
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/screens/Splash.kt:63:68 None of the following candidates is applicable:
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/tests/MiscTests.kt:225:85 Argument type mismatch: actual type is 'androidx.compose.ui.graphics.Color', but 'androidx.compose.ui.Modifier' was expected.
+e: file:///home/runner/work/CAPJI-HardwareLab/CAPJI-HardwareLab/app/src/main/java/com/capji/hardwarelab/ui/tests/MiscTests.kt:254:161 Argument type mismatch: actual type is 'androidx.compose.ui.graphics.Color', but 'androidx.compose.ui.Modifier' was expected.
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:compileDebugKotlin'.
